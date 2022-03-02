@@ -5,7 +5,7 @@
 
 # [![Noman Iqbal header](https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/dino.gif)](http://nomaniqbal.epizy.com)
 
-My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. You can find me on [![Twitter][1.2]][1],  on [![LinkedIn][3.2]][3],  or on [![Instagram][4.2]][4].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -83,6 +83,8 @@ A sample of my recent articles:
 [1.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/twitter.png (LinkedIn icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/linkedin.png (LinkedIn icon without padding)
+[4.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/instagram.png (Instagram icon without padding)
+
 
 
 <!-- links to your social media accounts -->
@@ -90,6 +92,8 @@ A sample of my recent articles:
 [1]: https://twitter.com/thenomaniqbal/
 [2]: https://github.com/thenomaniqbal/
 [3]: https://www.linkedin.com/in/thenomaniqbal/
+[4]: https://instagram.com/thenomaniqbal/
+
 
 
 <!-- Resources -->
