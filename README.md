@@ -75,9 +75,8 @@ A sample of my recent articles:
 
 ---
 
-<div align="center">
-### Show some ❤️ by ⭐ing some of the repositories!🔥
-</div>
+<h1> Show some ❤️ by ⭐ing some of the repositories!🔥
+</h1>
 
 ---
 
