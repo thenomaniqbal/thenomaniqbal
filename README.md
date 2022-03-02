@@ -5,7 +5,7 @@
 
 # [![Noman Iqbal header](https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/dino.gif)](http://nomaniqbal.epizy.com)
 
-My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. You can find me on [![Twitter][1.2]][1],  on [![LinkedIn][3.2]][3],  or on [![Instagram][4.2]][4].
+My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], or [![Instagram][4.2]][4].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
