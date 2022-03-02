@@ -27,7 +27,7 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/thenomaniqbal/thenomaniqbal/master/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/hacktoberfest.png?raw=true">
 </p>
  
 ### 🏍️ Boy Scout Rule 🗼
