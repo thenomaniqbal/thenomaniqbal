@@ -23,6 +23,20 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 ![](https://img.shields.io/badge/Tech-DataScience-informational?style=flat&logo=teradata&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tech-DataMining-informational?style=flat&logo=teradata&logoColor=white&color=2bbc8a)
 
+
+---
+ 
+ <p>
+  <img width="250" align='left' src="https://github.com/thenomaniqbal/thenomaniqbal/master/icon/hacktoberfest.png?raw=true">
+</p>
+ 
+### 🏍️ Boy Scout Rule 🗼
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+ ---
+
+
 ## &#x270d; Blog & Writing 📕
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [nomaniqbal.epizy.com](http://nomaniqbal.epizy.com/) as well as on [Hashnode](https://nomaniqbal.hashnode.dev/).
