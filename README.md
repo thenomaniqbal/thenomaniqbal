@@ -2,8 +2,8 @@
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/wave.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Views&color=blue&style=plastic" alt="thenomaniqbal" /> </p>
-[![Social banner for thenomaniqbal](https://github.com/thenomaniqbal/thenomaniqbal/raw/master/assets/dino.gif)] (http://nomaniqbal.epizy.com)
 
+# [![Noman Iqbal header](https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/main/icon/dino.gif)](http://nomaniqbal.epizy.com)
 
 My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
