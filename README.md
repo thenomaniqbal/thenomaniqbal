@@ -2,26 +2,28 @@
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/wave.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Views&color=blue&style=plastic" alt="thenomaniqbal" /> </p>
+[![Social banner for thenomaniqbal](https://github.com/thenomaniqbal/thenomaniqbal/raw/master/assets/dino.gif)](http://nomaniqbal.epizy.com/)
 
 
 My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-Visualstudio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SPSS-informational?style=flat&logo=ibm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-TobiiProLab-informational?style=flat&logo=eyeem&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PDP-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VIDE-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Gitbash-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tech-MachineLearning-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tech-ComputerVision-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tech-DataScience-informational?style=flat&logo=teradata&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tech-DataMining-informational?style=flat&logo=teradata&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
+## &#x270d; Blog & Writing 📕
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [nomaniqbal.epizy.com](http://nomaniqbal.epizy.com/) as well as on [Hashnode](https://nomaniqbal.hashnode.dev/).
 
@@ -32,7 +34,7 @@ A sample of my recent articles:
 - [Why does Python run slower than C?](https://nomaniqbal.hashnode.dev/why-does-python-run-slower-than-c)
 <!-- BLOG-POST-LIST:END -->
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats ✌️
 
 <a href="https://github.com/thenomaniqbal/thenomaniqbal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenomaniqbal&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
@@ -53,7 +55,7 @@ A sample of my recent articles:
 
 ---
 
-### Stargazers 👇
+### ✡️ Stargazers 👇
 
 [![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
 
@@ -65,7 +67,7 @@ A sample of my recent articles:
 
 ---
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'><i>💪 Stay awesome! 🥰</i></h1>
 
 ---
 
