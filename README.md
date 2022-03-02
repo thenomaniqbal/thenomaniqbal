@@ -50,6 +50,25 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=job-shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+
+---
+
+### Stargazers 👇
+
+[![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
+
+---
+
+<div align="center">
+### Show some ❤️ by ⭐ing some of the repositories!🔥
+</div>
+
+---
+
+<h1 align='center'><i>Stay awesome!</i></h1>
+
+---
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
