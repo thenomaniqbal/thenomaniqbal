@@ -101,7 +101,7 @@ A sample of my recent articles:
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/linkedin.png (LinkedIn icon without padding)
 [4.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/instagram.png (Instagram icon without padding)
-[5.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.png (Sololearn icon without padding)
+[5.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.svg (Sololearn icon without padding)
 
 
 
