@@ -5,7 +5,7 @@
 
 # [![Noman Iqbal header](https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/dino.gif)](http://nomaniqbal.epizy.com)
 
-My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], or [![Instagram][4.2]][4]. <img align="right" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="300" height="220" />
+My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], or [![Instagram][4.2]][4]. 
 
 
 ---
@@ -30,7 +30,7 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/hacktoberfest.png?raw=true">
+  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="250" height="200" />
 </p>
  
 ### 🏍️ Boy Scout Rule 🗼
