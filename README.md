@@ -57,12 +57,12 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenomaniqbal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/thenomaniqbal/python-project-blueprint">
+<a href="https://github.com/thenomaniqbal/thenomaniqbal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=thenomaniqbal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/thenomaniqbal/go-project-blueprint">
+<a href="https://github.com/thenomaniqbal/job-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=job-shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
