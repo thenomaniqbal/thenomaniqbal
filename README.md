@@ -30,7 +30,7 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 ---
  
  <p>
-  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" height="1500" />
+  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" />
 </p>
  
 ### 🏍️ Boy Scout Rule 🗼
