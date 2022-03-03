@@ -5,7 +5,7 @@
 
 # [![Noman Iqbal header](https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/dino.gif)](http://nomaniqbal.epizy.com)
 
-My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Machine Learning, Artificial Intelligence and Data Science. You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], or [![Instagram][4.2]][4]. 
+My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Machine Learning, Artificial Intelligence and Data Science. You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], [![Instagram][4.2]][4], [![SoloLearn][5.2]][5].
 
 
 ---
@@ -15,6 +15,7 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visualstudio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SPSS-informational?style=flat&logo=ibm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TobiiProLab-informational?style=flat&logo=eyeem&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PDP-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VIDE-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
@@ -100,6 +101,7 @@ A sample of my recent articles:
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/linkedin.png (LinkedIn icon without padding)
 [4.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/instagram.png (Instagram icon without padding)
+[5.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.png (Sololearn icon without padding)
 
 
 
@@ -109,6 +111,7 @@ A sample of my recent articles:
 [2]: https://github.com/thenomaniqbal/
 [3]: https://www.linkedin.com/in/thenomaniqbal/
 [4]: https://instagram.com/thenomaniqbal/
+[5]: https://www.sololearn.com/profile/14847321/
 
 
 
