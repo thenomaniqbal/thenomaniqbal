@@ -30,12 +30,12 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 ---
  
  <p>
-  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="250" height="200" />
+  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" height="1500" />
 </p>
  
 ### 🏍️ Boy Scout Rule 🗼
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example. Moreover, i learned a lot from the open-source community and i love how collaboration and knowledge sharing happenes through open-source. 
 
  ---
 
