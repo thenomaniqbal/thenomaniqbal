@@ -3,7 +3,7 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/wave.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Views&color=blue&style=plastic" alt="thenomaniqbal" /> </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=thenomaniqbal.thenomaniqbal)
+![](https://visitor-badge.glitch.me/badge?page_id=thenomaniqbal)
 
 # [![Noman Iqbal header](https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/dino.gif)](http://nomaniqbal.epizy.com)
 
