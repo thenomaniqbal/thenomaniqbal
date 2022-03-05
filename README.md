@@ -5,8 +5,6 @@
 
 # [![Noman Iqbal header](https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/dino.gif)](http://nomaniqbal.epizy.com)
 
-## 😎 About Me 
-
 My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Machine Learning, Artificial Intelligence and Data Science. You can find me on: <br>
 
 [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], [![Instagram][4.2]][4], [![SoloLearn][5.2]][5].
@@ -38,13 +36,14 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
  <p>
   <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" />
 </p>
- 
+
+---
+
 ### <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example. Moreover, i learned a lot from the open-source community and i love how collaboration and knowledge sharing happenes through open-source. 
 
- ---
-
+---
 
 ## &#x270d; Blog & Writing 📕
 
@@ -56,6 +55,8 @@ A sample of my recent articles:
 - [Why Learn Python? Five Reasons to Start Programming With Python in 2022](https://nomaniqbal.hashnode.dev/why-learn-python-five-reasons-to-start-programming-with-python-in-2022)
 - [Why does Python run slower than C?](https://nomaniqbal.hashnode.dev/why-does-python-run-slower-than-c)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 ## &#x1f4c8; GitHub Stats ✌️
 
@@ -78,14 +79,13 @@ A sample of my recent articles:
 
 ---
 
-### ✡️ Stargazers 👇
+## ✡️ Stargazers 👇
 
 [![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
 
 ---
 
-<h1> Show some ❤️ by ⭐ing some of the repositories!🔥
-</h1>
+<h1> Show some ❤️ by ⭐ing some of the repositories!🔥 </h1>
 
 ---
 
