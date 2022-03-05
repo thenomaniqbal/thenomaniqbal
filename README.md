@@ -12,8 +12,8 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 ---
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Garamond&color=%23A9B665&lines=I+am+into+;Artificial+Intelligence;Data+Science;+Machine+Learning;Deep+Learning+;Big+Data;and;Computer+Vision&width=380&height=45"></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Garamond&color=%231FDC0F&lines=I+am+into+;Artificial+Intelligence;Data+Science;+Machine+Learning;Deep+Learning+;Big+Data;and;Computer+Vision&width=380&height=45"></a>
 </p>
 
 ---
