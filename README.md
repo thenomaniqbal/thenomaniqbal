@@ -1,7 +1,17 @@
-
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="25">
+  &nbsp; Hello, folks! &nbsp;
+  <img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="25">
+</h3>
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/wave.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" alt="thenomaniqbal" /> </p>
+
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="25">
+  &nbsp; Hello, folks! &nbsp; <img src="https://emoji.discord.st/emojis/b50abf33-f700-4904-a952-d6a35188e350.gif" width="25">
+  <img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="25">
+</h3>
 
 # [![Noman Iqbal header](https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/dino.gif)](http://nomaniqbal.epizy.com)
 
