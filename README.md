@@ -1,14 +1,17 @@
 
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/wave.gif" width="30px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Views&color=blue&style=plastic" alt="thenomaniqbal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" alt="thenomaniqbal" /> </p>
 
 # [![Noman Iqbal header](https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/dino.gif)](http://nomaniqbal.epizy.com)
+
+## 🔧 About Me <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px">
 
 My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Machine Learning, Artificial Intelligence and Data Science. You can find me on: <br>
 
 [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], [![Instagram][4.2]][4], [![SoloLearn][5.2]][5].
 
+---
 
 ---
 
