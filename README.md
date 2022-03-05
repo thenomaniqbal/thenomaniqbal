@@ -86,8 +86,6 @@ A sample of my recent articles:
 
 [![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
 
----
-
 <h1> Show some ❤️ by ⭐ing some of the repositories!🔥 <h1>
 
 <h1 align='center'><i>💪 Stay awesome! 🥰</i></h1>
