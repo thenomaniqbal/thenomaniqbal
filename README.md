@@ -108,7 +108,6 @@ A sample of my recent articles:
 [5.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.ico (Sololearn icon without padding)
 
 
-
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/thenomaniqbal/
