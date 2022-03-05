@@ -11,6 +11,11 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 
 ---
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Garamond&color=%23A9B665&lines=I+am+into+Artificial+Intelligence;I+am+into++Big+Data;I+am+into++Machine+Learning;I+am+into+Deep+Learning;I+am+into+Data+Science;I+am+into+Computer+Vision&center=true&width=380&height=45"></a>
+</p>
+
 ---
 
 ## 🔧 Technologies & Tools
@@ -36,8 +41,6 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
  <p>
   <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" />
 </p>
-
----
 
 ## <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
 
@@ -85,13 +88,11 @@ A sample of my recent articles:
 
 ---
 
-Show some ❤️ by ⭐ing some of the repositories!🔥
+<h1> Show some ❤️ by ⭐ing some of the repositories!🔥 <h1>
 
 ---
 
 <h1 align='center'><i>💪 Stay awesome! 🥰</i></h1>
-
----
 
 <!-- links to social media icons -->
 
