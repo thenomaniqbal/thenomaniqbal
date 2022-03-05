@@ -90,8 +90,6 @@ A sample of my recent articles:
 
 <h1> Show some ❤️ by ⭐ing some of the repositories!🔥 <h1>
 
----
-
 <h1 align='center'><i>💪 Stay awesome! 🥰</i></h1>
 
 <!-- links to social media icons -->
