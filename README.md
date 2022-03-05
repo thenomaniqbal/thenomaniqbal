@@ -1,6 +1,7 @@
 
-### <img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="25"> Hello, folks! <img src="https://emoji.discord.st/emojis/b50abf33-f700-4904-a952-d6a35188e350.gif" width="25">
+### <img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30"> Hello, folks! <img src="https://emoji.discord.st/emojis/b50abf33-f700-4904-a952-d6a35188e350.gif" width="30">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Views&color=blue&style=plastic" alt="thenomaniqbal" /> </p>
+
 # [![Noman Iqbal header](https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/dino.gif)](http://nomaniqbal.epizy.com)
 
 My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Machine Learning, Artificial Intelligence and Data Science. You can find me on: <br>
