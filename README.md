@@ -101,8 +101,6 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 
----
-
 ## &#x270d; Blog & Writing 📕
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [nomaniqbal.epizy.com](http://nomaniqbal.epizy.com/) as well as on [Hashnode](https://nomaniqbal.hashnode.dev/).
@@ -114,9 +112,7 @@ A sample of my recent articles:
 - [Why does Python run slower than C?](https://nomaniqbal.hashnode.dev/why-does-python-run-slower-than-c)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-## 📊 Github stats
+## &#x1f4c8; Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
@@ -136,20 +132,6 @@ A sample of my recent articles:
 </details>
 
 
-## &#x1f4c8; GitHub Stats ✌️
-
-<a href="https://github.com/thenomaniqbal/thenomaniqbal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenomaniqbal&hide=less,scss,java,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/thenomaniqbal/thenomaniqbal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenomaniqbal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-   
-
-
----
-
 ## ✡️ Stargazers 👇
 
 [![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
@@ -157,31 +139,6 @@ A sample of my recent articles:
 <h1> Show some ❤️ by ⭐ing some of the repositories!🔥 <h1>
 
 <h1 align='center'><i>💪 Stay awesome! 🥰</i></h1>
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.1]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/twitter.png (Twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/linkedin.png (LinkedIn icon without padding)
-[4.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/instagram.png (Instagram icon without padding)
-[5.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.ico (Sololearn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/thenomaniqbal/
-[2]: https://github.com/thenomaniqbal/
-[3]: https://www.linkedin.com/in/thenomaniqbal/
-[4]: https://instagram.com/thenomaniqbal/
-[5]: https://www.sololearn.com/profile/14847321/
-
-[![Twitter][1.1]][1], [![LinkedIn][3.2]][3], [![Instagram][4.2]][4], [![SoloLearn][5.2]][5].
 
 ## 🙋‍♂️ Let's Connect
 <div align="center">
@@ -202,3 +159,31 @@ A sample of my recent articles:
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
+
+	
+	
+<!--- WORKING ON IT -->
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+<!--[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+<!--[1.1]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/twitter.png (Twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/linkedin.png (LinkedIn icon without padding)
+[4.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/instagram.png (Instagram icon without padding)
+[5.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.ico (Sololearn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+<!--[1]: https://twitter.com/thenomaniqbal/
+[2]: https://github.com/thenomaniqbal/
+[3]: https://www.linkedin.com/in/thenomaniqbal/
+[4]: https://instagram.com/thenomaniqbal/
+[5]: https://www.sololearn.com/profile/14847321/
+
+[![Twitter][1.1]][1], [![LinkedIn][3.2]][3], [![Instagram][4.2]][4], [![SoloLearn][5.2]][5]. -->
