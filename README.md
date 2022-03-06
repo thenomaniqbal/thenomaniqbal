@@ -4,42 +4,27 @@
 	Hi, Welcome to my profile!
 	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
-<img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
-<!--<img src="https://gpvc.arturio.dev/thenomaniqbal" alt="Profile views" align='right'/> <a href="https://github.com/thenomaniqbal/thenomaniqbal">--> </a>
 <br/>
-
-<!-- Social icons section -->
-<p align="center">
-	<a href="#" target="_blank"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  	<a href="https://twitter.com/thenomaniqbal" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  	<a href="https://www.linkedin.com/in/thenomaniqbal/" target="_blank"> alt="LinkedIn"><img width="32px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  	<a href="http://nomaniqbal.epizy.com/" target="_blank"><img width="32px" alt="Website" title="Nomaniqbal.com" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  	<a href="https://www.instagram.com/thenomaniqbal/" target="_blank"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img width="32px" alt="Gmail" title="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.pn"/></a>
-</p>
-
-<br/>
-
-<!-- Social badges section -->
-<p align="center">
-	<a href="https://github.com/thenomaniqbal?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/thenomaniqbal"/></a>
-  <a href="https://github.com/thenomaniqbal?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thenomaniqbal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/thenomaniqbal/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/thenomaniqbal-profile-views"/></a>
-</p>
-
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning+;I+am++into+Deep+Learning+;I+am++into++Big+Data;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
 </p>
 <hr/>
+
+<!-- Social badges section -->
+<p align="center">
+	<a href="https://github.com/thenomaniqbal/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+	<a href="https://github.com/thenomaniqbal?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/thenomaniqbal"/></a>
+  <a href="https://github.com/thenomaniqbal?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thenomaniqbal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/thenomaniqbal/Simple-View-Counter"><img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/thenomaniqbal-profile-views"/></a>
+</p>
+
+
+<!--<img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
+<!--<img src="https://gpvc.arturio.dev/thenomaniqbal" alt="Profile views" align='right'/> <a href="https://github.com/thenomaniqbal/thenomaniqbal"> </a>-->
+
 
 <!-- Introduction -->
 My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Machine Learning, Artificial Intelligence and Data Science.
