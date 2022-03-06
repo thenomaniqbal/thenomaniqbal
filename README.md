@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	Hi, I'm Noman Iqbal!
+	Hi, I'm [Noman Iqbal!](http://nomaniqbal.epizy.com/)
 	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
 <img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
@@ -9,8 +9,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning+;I+am++into+Deep+Learning+;I+am++into++Big+Data;I+am++into++Computer+Vision!!&center=true&width=380&height=45">
-	</a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning+;I+am++into+Deep+Learning+;I+am++into++Big+Data;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
