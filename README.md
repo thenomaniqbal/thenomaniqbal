@@ -1,3 +1,4 @@
+<!-- Greetings -->
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	Hi, Welcome to my profile!
@@ -13,11 +14,17 @@
 </p>
 <hr/>
 
+<!-- Introduction -->
 My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Machine Learning, Artificial Intelligence and Data Science.
 
+## 🔥 Streak Stats
 
-
-
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal&theme=monokai-metallian&hide_border=true"/></a>
+<p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
