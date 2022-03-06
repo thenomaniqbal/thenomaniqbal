@@ -1,7 +1,6 @@
-# [![Noman Iqbal header]
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	Hi, I'm [Noman Iqbal!](http://nomaniqbal.epizy.com/)
+	Hi, I'm [Noman Iqbal!] (http://nomaniqbal.epizy.com/)
 	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
 <img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
