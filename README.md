@@ -143,7 +143,7 @@ A sample of my recent articles:
 	<a href="https://www.linkedin.com/in/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.sololearn.com/profile/14847321/" margin='20px' target="_blank"><img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.ico" alt="Sololearn"/></a>
+	<a href="https://www.sololearn.com/profile/14847321/" margin='5px' target="_blank"><img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.ico" alt="Sololearn"/></a>
 	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </div>
   
