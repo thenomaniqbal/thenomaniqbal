@@ -48,12 +48,12 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 	<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     	<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 	<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-	<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit%20learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
-    	<a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=pytorch&logoColor=black"></a>
+	<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
+    	<a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=black"></a>
 	<a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
 	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    	<a href="#"><img alt="Asp.net MVC" src="https://img.shields.io/badge/Dotnet-21759B?logo=dotnet&logoColor=white">
-	<a href="#"><img alt="RubyOnRails" src="https://img.shields.io/badge/Electron-20232e.svg?logo=rubyonrails&logoColor=white"></a>
+    	<a href="#"><img alt="Asp.net MVC" src="https://img.shields.io/badge/Dot%20Net-21759B?logo=dotnet&logoColor=white">
+	<a href="#"><img alt="RubyOnRails" src="https://img.shields.io/badge/Ruby%20On%20Rails-20232e.svg?logo=rubyonrails&logoColor=white"></a>
     	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 </p>
 
@@ -74,22 +74,20 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 
 <p>
 	<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
-    	<a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-Pycharm-0000CC?logo=pycharm&logoColor=white"></a>
-    	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/-Visualstudio-175DDC?logo=visualstudio&logoColor=white"></a>
-    	<a href="#"><img alt="SPSS" src="https://img.shields.io/badge/-Spss-FB542B?logo=ibm&logoColor=white"></a>
-    	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/Microsoftsqlserver-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
-    	<a href="#"><img alt="Tobii Pro Lab" src="https://img.shields.io/badge/Tobiipro-00b56a.svg?logo=eyeem&logoColor=white"></a>
+    	<a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-0000CC?logo=pycharm&logoColor=white"></a>
+    	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    	<a href="#"><img alt="SPSS" src="https://img.shields.io/badge/-SPSS-FB542B?logo=ibm&logoColor=white"></a>
+    	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
+    	<a href="#"><img alt="Tobii Pro Lab" src="https://img.shields.io/badge/Tobii%20Pro-00b56a.svg?logo=eyeem&logoColor=white"></a>
     	<a href="#"><img alt="PDP-Anaconda" src="https://img.shields.io/badge/-Anaconda-141E24?logo=anaconda&logoColor=white"></a>
-    	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    	<a href="#"><img alt="Tech-DataScience" src="https://img.shields.io/badge/Datascience-18A497?logo=teradata&logoColor=white"></a>
-    	<a href="#"><img alt="Tech-DataMining" src="https://img.shields.io/badge/Datamining-FF6C37?logo=teradata&logoColor=white"></a>
-	<a href="#"><img alt="Tech-ComputerVision" src="https://img.shields.io/badge/Computervision-3DDC84?logo=teradata&logoColor=white"></a>
+    	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
+	<a href="#"><img alt="Tech-MachineLearning" src="https://img.shields.io/badge/Machine%20Learning-F05033.svg?logo=git&logoColor=white"></a>
+    	<a href="#"><img alt="Tech-DataScience" src="https://img.shields.io/badge/Data%20Science-18A497?logo=teradata&logoColor=white"></a>
+    	<a href="#"><img alt="Tech-DataMining" src="https://img.shields.io/badge/Data%20Mining-FF6C37?logo=teradata&logoColor=white"></a>
+	<a href="#"><img alt="Tech-ComputerVision" src="https://img.shields.io/badge/Computer%20Vision-3DDC84?logo=teradata&logoColor=white"></a>
 	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
-	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    	<a href="#"><img alt="Tech-MachineLearning" src="https://img.shields.io/badge/Machinelearning-000000?logo=python&logoColor=white"></a>
 </p>
 
 
