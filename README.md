@@ -139,9 +139,6 @@ A sample of my recent articles:
 <!--END_SECTION:activity-->
 </details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NomanIqbal's Activity Graph" src="https://thenomaniqbal-activity-graph.herokuapp.com/graph/?username=thenomaniqbal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 ## ✡️ Stargazers 👇
 
 [![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
