@@ -146,9 +146,8 @@ A sample of my recent articles:
 	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </div>
   
-  
-<h1> Show some ❤️ by ⭐ing some of the repositories!🔥 <h1>
-	
+<h1 align='center'> Show some ❤️ by ⭐ing some of the repositories!🔥<h1>	
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Icons: https://img.icons8.com -->
