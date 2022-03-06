@@ -131,13 +131,7 @@ A sample of my recent articles:
 	<a href="https://github.com/thenomaniqbal/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </details>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</details>
 
 ## ✡️ Stargazers 👇
 
@@ -153,7 +147,18 @@ A sample of my recent articles:
 	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </div>
   
-<h1 align='center'> Show some ❤️ by ⭐ing some of the repositories!🔥<h1>	
+## :book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/thenomaniqbal/thenomaniqbal/issues/new?template=guestbook-entry.md">here</a>!</p>
+
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/main/icon/footer.png"></div>
+
+	
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
