@@ -125,12 +125,22 @@ A sample of my recent articles:
 </details>
 
 <details>
-	<summary>⚡ Recent GitHub Directories</summary>
+	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
 	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=thenomaniqbal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/thenomaniqbal/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </details>
 
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NomanIqbal's Activity Graph" src="https://thenomaniqbal-activity-graph.herokuapp.com/graph/?username=thenomaniqbal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## ✡️ Stargazers 👇
 
