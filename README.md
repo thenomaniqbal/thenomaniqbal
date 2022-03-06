@@ -136,10 +136,6 @@ A sample of my recent articles:
 
 [![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
 
-<h1> Show some ❤️ by ⭐ing some of the repositories!🔥 <h1>
-
-<h1 align='center'><i>💪 Stay awesome! 🥰</i></h1>
-
 ## 🙋‍♂️ Let's Connect
 <div align="center">
 	<a href="http://nomaniqbal.epizy.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="WebSite"/></a>
@@ -147,9 +143,13 @@ A sample of my recent articles:
 	<a href="https://www.linkedin.com/in/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.sololearn.com/profile/14847321/" target="_blank"><img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.ico" alt="Sololearn"/></a>
 	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </div>
   
+  
+<h1> Show some ❤️ by ⭐ing some of the repositories!🔥 <h1>
+	
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Icons: https://img.icons8.com -->
