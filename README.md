@@ -83,7 +83,7 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
     	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     	<a href="#"><img alt="Tech-DataScience" src="https://img.shields.io/badge/Datascience-18A497?logo=teradata&logoColor=white"></a>
     	<a href="#"><img alt="Tech-DataMining" src="https://img.shields.io/badge/Datamining-FF6C37?logo=teradata&logoColor=white"></a>
-    	<a href="#"><img alt="Tech-ComputerVision" src="https://img.shields.io/badge/Computervision?logo=teradata&logoColor=white"></a>
+	<a href="#"><img alt="Tech-ComputerVision" src="https://img.shields.io/badge/Computervision-3DDC84?logo=teradata&logoColor=white"></a>
 	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
 	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
