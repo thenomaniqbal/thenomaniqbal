@@ -3,7 +3,7 @@
 	Hi, I'm Noman Iqbal!
 	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
-<img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Views&color=green&style=plastic" align='right' alt="thenomaniqbal" />
+<img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Views&color=#39d353&style=plastic" align='right' alt="thenomaniqbal" />
 <!--<img src="https://gpvc.arturio.dev/thenomaniqbal" alt="Profile views" align='right'/> <a href="https://github.com/thenomaniqbal/thenomaniqbal">--> </a> 
 <br/>
 
