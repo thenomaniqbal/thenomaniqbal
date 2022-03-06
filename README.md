@@ -5,8 +5,35 @@
 	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
 <img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
-<!--<img src="https://gpvc.arturio.dev/thenomaniqbal" alt="Profile views" align='right'/> <a href="https://github.com/thenomaniqbal/thenomaniqbal">--> </a> 
+<!--<img src="https://gpvc.arturio.dev/thenomaniqbal" alt="Profile views" align='right'/> <a href="https://github.com/thenomaniqbal/thenomaniqbal">--> </a>
 <br/>
+
+<!-- Social icons section -->
+<p align="center">
+	<a href="#" target="_blank"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  	<a href="https://twitter.com/thenomaniqbal" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  	<a href="https://www.linkedin.com/in/thenomaniqbal/" target="_blank"> alt="LinkedIn"><img width="32px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  	<a href="http://nomaniqbal.epizy.com/" target="_blank"><img width="32px" alt="Website" title="Nomaniqbal.com" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  	<a href="https://www.instagram.com/thenomaniqbal/" target="_blank"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img width="32px" alt="Gmail" title="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.pn"/></a>
+</p>
+
+<br/>
+
+<!-- Social badges section -->
+<p align="center">
+	<a href="https://github.com/thenomaniqbal?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/thenomaniqbal"/></a>
+  <a href="https://github.com/thenomaniqbal?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thenomaniqbal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/thenomaniqbal/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/thenomaniqbal-profile-views"/></a>
+</p>
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
