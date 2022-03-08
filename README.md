@@ -150,12 +150,12 @@ A sample of my recent articles:
 
 ## 🙋‍♂️ Let's Connect
 <div align="center">
-	<a href="http://nomaniqbal.epizy.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="WebSite"/></a>
-	<a href="https://github.com/thenomaniqbal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="http://nomaniqbal.epizy.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="WebSite"/></a>
+	<a href="https://github.com/thenomaniqbal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" title="Facebook Profile" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
+	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </div>
   
 ## :book: Guestbook</h2>
