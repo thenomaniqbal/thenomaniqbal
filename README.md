@@ -20,7 +20,6 @@
 </p>
 <!--<img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
 <!--<img src="https://gpvc.arturio.dev/thenomaniqbal" alt="Profile views" align='right'/> <a href="https://github.com/thenomaniqbal/thenomaniqbal"> </a>-->
-
 <hr/>
 
 <!-- Introduction -->
