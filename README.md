@@ -138,7 +138,8 @@ A sample of my recent articles:
 	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=thenomaniqbal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/thenomaniqbal/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/thenomaniqbal/LogisticRegression-BreastCancerDS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LogisticRegression-BreastCancerDS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-GradesPredictionn"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-GradesPrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/thenomaniqbal/LinearRegression-GradesPrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-GradesPrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/thenomaniqbal/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </details>
 
 
