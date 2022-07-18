@@ -147,11 +147,18 @@ A sample of my recent articles:
 	<a href="https://github.com/thenomaniqbal/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </details>
 
+<details>
+<summary>💡 Profile visitors</summary>
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/thenomaniqbal/count.svg">
+</div>
+</details>
 
 
-## ✡️ Stargazers 👇
+<!--- ## ✡️ Stargazers 👇
 
-[![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
+[![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers) -->
 
 ## 🙋‍♂️ Let's Connect
 <div align="center">
