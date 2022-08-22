@@ -107,10 +107,10 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/) and I'm a Software Engin
 ---
  
  <p>
-  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" />
+  <img align="left" alt="GIF" src="https://camo.githubusercontent.com/9d907477b4da6b89f6324caa72acc721049b0a38e26533b969eccde6242338b0/68747470733a2f2f646174612e77686963646e2e636f6d2f696d616765732f3233373137363032302f6f726967696e616c2e676966" width="200" />
 </p>
 
-## <img src="https://camo.githubusercontent.com/9d907477b4da6b89f6324caa72acc721049b0a38e26533b969eccde6242338b0/68747470733a2f2f646174612e77686963646e2e636f6d2f696d616765732f3233373137363032302f6f726967696e616c2e676966" width="40px"> Boy Scout Rule 🏍️
+## <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 
