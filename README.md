@@ -91,6 +91,7 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/) and I'm a Software Engin
     	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
     	<a href="#"><img alt="Tobii Pro Lab" src="https://img.shields.io/badge/Tobii%20Pro-00b56a.svg?logo=eyeem&logoColor=white"></a>
     	<a href="#"><img alt="PDP-Anaconda" src="https://img.shields.io/badge/-Anaconda-141E24?logo=anaconda&logoColor=white"></a>
+	<a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
     	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
 	<a href="#"><img alt="Tech-MachineLearning" src="https://img.shields.io/badge/Machine%20Learning-F05033.svg?logo=git&logoColor=white"></a>
     	<a href="#"><img alt="Tech-DataScience" src="https://img.shields.io/badge/Data%20Science-18A497?logo=teradata&logoColor=white"></a>
