@@ -23,7 +23,7 @@
 <hr/>
 
 <!-- Introduction -->
-My name is [Noman Iqbal!](https://github.com/thenomaniqbal/MyResume/) and I'm a Software Engineer/Data Scientist. I'm from Pakistan, living in Islamabad, and currently pursuing a master's degree in Data Science. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Artificial Intelligence, Machine Learning, and Data Science.
+My name is [Noman Iqbal!](https://github.com/thenomaniqbal/MyResume/) and I'm a Software Engineer/Data Scientist. I'm from Pakistan, living in Islamabad, and currently pursuing a master's degree in Data Science. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build. I deeply love Artificial Intelligence, Machine Learning, and Data Science.
 
 ## 🔥 Streak Stats
 
