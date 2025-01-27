@@ -15,15 +15,19 @@
 <p align="center">
 	<a href="https://github.com/thenomaniqbal/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=red&style=for-the-badge"/></a>
 	<a href="https://github.com/thenomaniqbal?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/thenomaniqbal"/></a>
-  	<a href="https://github.com/thenomaniqbal?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thenomaniqbal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-	
+  	<a href="https://github.com/thenomaniqbal?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thenomaniqbal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>	
 </p>
+
 <!--<img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
 <!--<img src="https://gpvc.arturio.dev/thenomaniqbal" alt="Profile views" align='right'/> <a href="https://github.com/thenomaniqbal/thenomaniqbal"> </a>-->
 <hr/>
 
 <!-- Introduction -->
-My name is [Noman Iqbal!](https://github.com/thenomaniqbal/MyResume/) and I'm a Software Engineer/Data Scientist. I'm from Pakistan, living in Islamabad, and currently pursuing a master's degree in Data Science. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build. I deeply love Artificial Intelligence, Machine Learning, and Data Science.
+ <p>
+  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/coder.gif?raw=true" width="200" />
+</p>
+&nbsp; <p align="center"> My name is <a href="https://github.com/thenomaniqbal/MyResume/" target="_blank"><strong>Noman Iqbal!</strong></a> and I'm a Software Engineer/Data Scientist. I'm from Pakistan, living in Islamabad, and currently pursuing a master's degree in Data Science. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build. I deeply love Artificial Intelligence, Machine Learning, and Data Science. </p>
+</br>
 
 ## 🔥 Streak Stats
 
@@ -116,13 +120,15 @@ My name is [Noman Iqbal!](https://github.com/thenomaniqbal/MyResume/) and I'm a 
 
 ---
  
- <p>
-  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" />
-</p>
+
 
 ## <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
+ <p>
+  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" />
+</p>
+&nbsp;<p align="center"> I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. </p>
+<br/>
 
 ## &#x270d; Blog & Writing 📕
 
