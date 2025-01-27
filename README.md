@@ -176,7 +176,7 @@ A sample of my recent articles:
 
 [![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers) -->
 
-## 🙋‍♂️ Let's Connect
+## 🙋‍♂️ Let's Connect 🌎
 <div align="center">
 	<a href="http://nomaniqbal.epizy.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="WebSite"/></a>
 	<a href="https://github.com/thenomaniqbal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="GitHub Profile" alt="GitHub"/></a>
@@ -186,7 +186,7 @@ A sample of my recent articles:
 	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </div>
   
-## :book: Guestbook</h2>
+## :book: Guestbook</h2> 📩
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/thenomaniqbal/thenomaniqbal/issues/new?template=guestbook-entry.md">here</a>!</p>
 
 <div align="center">
