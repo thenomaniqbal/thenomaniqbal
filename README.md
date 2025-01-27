@@ -141,7 +141,7 @@ A sample of my recent articles:
 - [Why does Python run slower than C?](https://nomaniqbal.hashnode.dev/why-does-python-run-slower-than-c)
 <!-- BLOG-POST-LIST:END -->
 
-## &#x1f4c8; Github stats
+## <img src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/stats.gif?raw=true" width="30"> Github stats &#x1f4c8;
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details open>
