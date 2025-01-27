@@ -1,5 +1,5 @@
 <!-- Greetings -->
-<p align="left"><img width=15%" src="https://github.com/thenomaniqbal/thenomaniqbal/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="left"><img width=15%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/lang.gif?raw=true" alt="lang image here" /></p>
 
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
