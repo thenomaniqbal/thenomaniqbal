@@ -26,7 +26,7 @@
  <p>
   <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/coder.gif?raw=true" width="200" />
 </p>
-&nbsp; <p align="center"> My name is <a href="https://github.com/thenomaniqbal/MyResume/" target="_blank"><strong>Noman Iqbal!</strong></a> and I'm a Software Engineer/Data Scientist. I'm from Pakistan, living in Islamabad, and currently pursuing a master's degree in Data Science. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build. I deeply love Artificial Intelligence, Machine Learning, and Data Science. </p>
+&nbsp; <p align="center"> I am <a href="https://github.com/thenomaniqbal/MyResume/" target="_blank"><strong>Noman Iqbal!</strong></a>, a software engineer, researcher, and data scientist from Pakistan, currently pursuing a Ph.D. in Traffic Information Engineering and Control at Chang’an University, China. My expertise includes AI, machine learning, deep learning, big data, and behavioral analytics, with hands-on experience in Python, MATLAB, and TensorFlow. I have contributed to research on driver behavior analysis, including studies on uneven road surfaces and driving safety, vehicle speed dynamics, and credit card fraud detection. I am dedicated to developing innovative solutions and advancing intelligent transportation systems.</p>
 </br>
 
 ## 🔥 Streak Stats
